@@ -17,6 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ImuMsg.msg"
   "msg/Master2llm.msg"
   "msg/Vison2Master.msg"
+  "msg/Follow2Master.msg"
 
   DEPENDENCIES std_msgs
   DEPENDENCIES geometry_msgs
