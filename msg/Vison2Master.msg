@@ -1,1 +1,2 @@
-float32 mode
+string scene
+bool is_idle
